@@ -6,10 +6,10 @@
 
 
 <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=lucbpz_the-ultimate-markdown.pdf" width="500" height="375">
+viewer?embedded=true&url=https://github.com/dzwallkilled/hacker_rank_practices/blob/master/lucbpz_the-ultimate-markdown.pdf" width="500" height="375">
 
-<object data="lucbpz_the-ultimate-markdown.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="lucbpz_the-ultimate-markdown.pdf">
+<object data="https://github.com/dzwallkilled/hacker_rank_practices/blob/master/lucbpz_the-ultimate-markdown.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/dzwallkilled/hacker_rank_practices/blob/master/lucbpz_the-ultimate-markdown.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="lucbpz_the-ultimate-markdown.pdf">Download PDF</a>.</p>
     </embed>
 </object>
