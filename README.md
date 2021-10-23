@@ -5,6 +5,12 @@
 ![Markdown cheat sheet2](lucbpz_the-ultimate-markdown.pdf)
 
 
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="lucbpz_the-ultimate-markdown.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="lucbpz_the-ultimate-markdown.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 To add practices, please follow the template.
 ```Template
 ## [TOPIC](url-to-topic1)
