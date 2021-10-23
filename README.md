@@ -1,5 +1,7 @@
 # This is used to record the practices answered in HackerRanks
 
+![Markdown cheat sheet](Jupyter-Notebook-Markdown-Cheatsheet2.pdf)
+
 To add practices, please follow the template.
 ```Template
 ## [TOPIC](url-to-topic1)
@@ -35,7 +37,6 @@ To add practices, please follow the template.
         * [[Answer]](./interview_preparation_kit/warm-up_challenges/sales_by_match.py)
     - [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) 
         * [[Answer]]()
-        
         
         
 ## Your Topic here
