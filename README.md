@@ -16,7 +16,7 @@ To add practices, please follow the template.
 ## [next-topic](url)
 ```
 
-Example
+[Example](#(Example)-Interview-Preparation-Kit)
 
 ```
 ## [(Example) Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
