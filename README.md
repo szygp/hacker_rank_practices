@@ -1,6 +1,9 @@
 # This is used to record the practices answered in HackerRanks
 
-![Markdown cheat sheet](Jupyter-Notebook-Markdown-Cheatsheet2.pdf)
+![Markdown cheat sheet1](Jupyter-Notebook-Markdown-Cheatsheet2.pdf)
+
+![Markdown cheat sheet2](lucbpz_the-ultimate-markdown.pdf)
+
 
 To add practices, please follow the template.
 ```Template
