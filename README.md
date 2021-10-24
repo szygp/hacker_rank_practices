@@ -46,4 +46,5 @@ To add practices, please follow the template.
 1. [Basic data type](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-basic-data-types)
     - [List comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true)
        
-
+2. [Set](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-sets)
+    - [Set.union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)
