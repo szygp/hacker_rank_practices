@@ -52,5 +52,8 @@ To add practices, please follow the template.
  
 3. [Collections](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-collections)
     - [Collections.Piling_Up](https://www.hackerrank.com/challenges/piling-up/problem)
+    
+4. [Collections](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-collections)
+    - [Collections.company_logo](https://www.hackerrank.com/challenges/most-commons/problem)
 
 
