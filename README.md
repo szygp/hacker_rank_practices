@@ -57,5 +57,5 @@ To add practices, please follow the template.
     - [Collections.company_logo](https://www.hackerrank.com/challenges/most-commons/problem)
 
 5. [Set](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-sets)
-    - [Check_strict_superset]([https://www.hackerrank.com/challenges/most-commons/problem](https://www.hackerrank.com/challenges/py-check-strict-superset/problem))
+    - [Check_strict_superset]([https://www.hackerrank.com/challenges/most-commons/problem)(https://www.hackerrank.com/challenges/py-check-strict-superset/problem))
 
