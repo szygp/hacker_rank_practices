@@ -61,3 +61,6 @@ To add practices, please follow the template.
 
 6. [Set](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-sets)
     - [Set.The_Captain's_Room](https://www.hackerrank.com/challenges/most-commons/problem)(https://www.hackerrank.com/challenges/py-the-captains-room/problem?h_r=internal-search)
+
+7. [Set](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-sets)
+    - [Set.Check_Subset](https://www.hackerrank.com/challenges/most-commons/problem)(https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true)
