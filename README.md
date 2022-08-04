@@ -57,5 +57,7 @@ To add practices, please follow the template.
     - [Collections.company_logo](https://www.hackerrank.com/challenges/most-commons/problem)
 
 5. [Set](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-sets)
-    - [Check_strict_superset]([https://www.hackerrank.com/challenges/most-commons/problem)(https://www.hackerrank.com/challenges/py-check-strict-superset/problem))
+    - [Check_strict_superset](https://www.hackerrank.com/challenges/most-commons/problem)(https://www.hackerrank.com/challenges/py-check-strict-superset/problem)
 
+6. [Set](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-sets)
+    - [Set.The_Captain's_Room](https://www.hackerrank.com/challenges/most-commons/problem)(https://www.hackerrank.com/challenges/py-the-captains-room/problem?h_r=internal-search)
