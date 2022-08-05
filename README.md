@@ -64,3 +64,6 @@ To add practices, please follow the template.
 
 7. [Set](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-sets)
     - [Set.Check_Subset](https://www.hackerrank.com/challenges/most-commons/problem)(https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true)
+
+8. [Python Functionals](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-functionals)
+    - [Validate_List_of_Email_Address_with_Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)
