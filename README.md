@@ -70,3 +70,6 @@ To add practices, please follow the template.
 
 9. [Python Functionals](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-functionals)
     - [Reduce_Function(https://www.hackerrank.com/challenges/reduce-function/problem)
+
+10. [Built-Ins](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-built-ins)
+    - [Any_or_All](https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true)
