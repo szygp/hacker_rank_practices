@@ -76,3 +76,6 @@ To add practices, please follow the template.
     
 11. [Built-Ins](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-built-ins)
     - [ginorts](https://www.hackerrank.com/challenges/ginorts/problem)
+
+12. [Math](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-math)
+    - [Triangle_Quest2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)
