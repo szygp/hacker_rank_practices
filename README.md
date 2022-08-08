@@ -82,3 +82,6 @@ To add practices, please follow the template.
     
 13. [Math](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-math)
     - [Integers_come_in_all_sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
+
+14. [Math](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-math)
+    - [Triangle_Quest](https://www.hackerrank.com/challenges/python-quest-1/problem?h_r=next-challenge&h_v=zen)
