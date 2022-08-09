@@ -91,3 +91,6 @@ To add practices, please follow the template.
 
 16. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
     - [Shape_and_Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)
+
+17. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
+    - [Tranpose_and_Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)
