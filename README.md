@@ -97,3 +97,6 @@ To add practices, please follow the template.
 
 18. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
     - [Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem?h_r=next-challenge&h_v=zen)
+
+19. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
+    - [Zeros_and_Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)
