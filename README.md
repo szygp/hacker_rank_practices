@@ -103,3 +103,6 @@ To add practices, please follow the template.
 
 20. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
     - [Eye_and_identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem?h_r=next-challenge&h_v=zen)
+
+21. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
+    - [Array_Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
