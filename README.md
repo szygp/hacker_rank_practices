@@ -109,3 +109,6 @@ To add practices, please follow the template.
 
 22. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
     - [Floor_Ceil_and_Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem?h_r=next-challenge&h_v=zen)
+
+23. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
+    - [Arrays](https://www.hackerrank.com/challenges/np-arrays/problem?isFullScreen=true)
