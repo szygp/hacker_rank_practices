@@ -45,71 +45,57 @@ To add practices, please follow the template.
 ## [Python](https://www.hackerrank.com/domains/python)
 1. [Basic data type](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-basic-data-types)
     - [List comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true)
-       
-2. [Set](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-sets)
-    - [Set.union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)
-    - [Set.intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)
- 
-3. [Collections](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-collections)
-    - [Collections.Piling_Up](https://www.hackerrank.com/challenges/piling-up/problem)
-    
-4. [Collections](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-collections)
-    - [Collections.company_logo](https://www.hackerrank.com/challenges/most-commons/problem)
+        * [[Answer]](./List_comprehensions.py) 
+2. [Collections](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-collections)
+    - [Piling_Up](https://www.hackerrank.com/challenges/piling-up/problem)
+        * [[Answer]](./Piling_Up.py)
+    - [Company_logo](https://www.hackerrank.com/challenges/most-commons/problem)
+        * [[Answer]](./Company_logo.py)   
 
-5. [Set](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-sets)
-    - [Check_strict_superset](https://www.hackerrank.com/challenges/most-commons/problem)(https://www.hackerrank.com/challenges/py-check-strict-superset/problem)
-
-6. [Set](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-sets)
-    - [Set.The_Captain's_Room](https://www.hackerrank.com/challenges/most-commons/problem)(https://www.hackerrank.com/challenges/py-the-captains-room/problem?h_r=internal-search)
-
-7. [Set](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-sets)
-    - [Set.Check_Subset](https://www.hackerrank.com/challenges/most-commons/problem)(https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true)
-
-8. [Python Functionals](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-functionals)
+3. [Python Functionals](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-functionals)
     - [Validate_Email_Addresses_with_a_Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)
-
-9. [Python Functionals](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-functionals)
+        * [[Answer]](./Validate_Email_Addresses.py)
     - [Reduce_Function(https://www.hackerrank.com/challenges/reduce-function/problem)
-
-10. [Built-Ins](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-built-ins)
+        * [[Answer]](./Reduce_Function.py)
+4. [Built-Ins](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-built-ins)
     - [Any_or_All](https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true)
         * [[Answer]](./Any_or_All.py)
-11. [Built-Ins](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-built-ins)
     - [ginorts](https://www.hackerrank.com/challenges/ginorts/problem)
-
-12. [Math](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-math)
+        * [[Answer]](./ginorts.py)
+5. [Math](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-math)
     - [Triangle_Quest2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)
-    
-13. [Math](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-math)
+        * [[Answer]](./Triangle_Quest2.py)
     - [Integers_come_in_all_sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
-
-14. [Math](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-math)
+        * [[Answer]](./Integers_come_in_all_sizes.py)
     - [Triangle_Quest](https://www.hackerrank.com/challenges/python-quest-1/problem?h_r=next-challenge&h_v=zen)
-
-15. [Set](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-sets)
+        * [[Answer]](./Triangle_Quest.py)
+6. [Set](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-sets)
     - [Set_mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)
-
-16. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
-    - [Shape_and_Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)
-
-17. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
-    - [Tranpose_and_Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)
-
-18. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
-    - [Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem?h_r=next-challenge&h_v=zen)
-
-19. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
-    - [Zeros_and_Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)
-
-20. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
-    - [Eye_and_identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem?h_r=next-challenge&h_v=zen)
-
-21. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
-    - [Array_Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
-
-22. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
-    - [Floor_Ceil_and_Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem?h_r=next-challenge&h_v=zen)
-
-23. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
+        * [[Answer]](./Set_mutations.py)
+    - [Check_Subset](https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true)
+        * [[Answer]](./Check_Subset.py)
+    - [The_Captain's_Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem?h_r=internal-search)
+        * [[Answer]](./The_Captain's_Room.py)
+    - [Check_strict_superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)
+        * [[Answer]](./Check_strict_superset.py)
+    - [Union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)
+        * [[Answer]](./Union_Operation.py)
+    - [intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)
+        * [[Answer]](./intersection()_Operation.py)
+7. [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
     - [Arrays](https://www.hackerrank.com/challenges/np-arrays/problem?isFullScreen=true)
         * [[Answer]](./Arrays.py)
+    - [Array_Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
+        * [[Answer]](./Array_Mathematics.py)
+    - [Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem?h_r=next-challenge&h_v=zen)
+        * [[Answer]](./Concatenate.py)
+    - [Eye_and_identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem?h_r=next-challenge&h_v=zen)
+        * [[Answer]](./Eye_and_identity.py)
+    - [Floor_Ceil_and_Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem?h_r=next-challenge&h_v=zen)
+        * [[Answer]](./Floor_Ceil_and_Rint.py)
+    - [Shape_and_Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)
+        * [[Answer]](./Shape_and_Reshape.py)
+    - [Tranpose_and_Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)
+        * [[Answer]](./Tranpose_and_Flatten.py)
+    - [Zeros_and_Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)
+        * [[Answer]](./Zeros_and_Ones.py)
