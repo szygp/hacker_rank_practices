@@ -61,7 +61,7 @@ To add practices, please follow the template.
     - [Any_or_All](https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true)
         * [[Answer]](./Any_or_All.py)
     - [ginorts](https://www.hackerrank.com/challenges/ginorts/problem)
-        * [[Answer]](./ginorts.py)
+        * [[Answer]](./ginortS.py)
 5. [Math](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-math)
     - [Triangle_Quest2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)
         * [[Answer]](./Triangle_Quest2.py)
