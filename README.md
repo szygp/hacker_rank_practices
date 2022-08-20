@@ -50,7 +50,7 @@ To add practices, please follow the template.
     - [Piling_Up](https://www.hackerrank.com/challenges/piling-up/problem)
         * [[Answer]](./Piling_Up.py)
     - [Company_logo](https://www.hackerrank.com/challenges/most-commons/problem)
-        * [[Answer]](./Company_logo.py)   
+        * [[Answer]](./colletions_company_logo.py)   
 
 3. [Python Functionals](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-functionals)
     - [Validate_Email_Addresses_with_a_Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)
