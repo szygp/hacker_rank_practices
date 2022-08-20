@@ -75,7 +75,7 @@ To add practices, please follow the template.
     - [Check_Subset](https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true)
         * [[Answer]](./Check_Subset.py)
     - [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem?h_r=internal-search)
-        * [[Answer]](./The Captain's Room.py)
+        * [[Answer]](./The_Captain's_Room.py)
     - [Check_strict_superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)
         * [[Answer]](./Check_strict_superset.py)
     - [Union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)
