@@ -55,7 +55,7 @@ To add practices, please follow the template.
 3. [Python Functionals](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-functionals)
     - [Validate_Email_Addresses_with_a_Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)
         * [[Answer]](./Validate_Email_Addresses.py)
-    - [Reduce_Function(https://www.hackerrank.com/challenges/reduce-function/problem)
+    - [Reduce_Function](https://www.hackerrank.com/challenges/reduce-function/problem)
         * [[Answer]](./Reduce_Function.py)
 4. [Built-Ins](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-built-ins)
     - [Any_or_All](https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true)
