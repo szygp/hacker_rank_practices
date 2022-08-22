@@ -57,6 +57,8 @@ To add practices, please follow the template.
         * [[Answer]](./Validate_Email_Addresses.py)
     - [Reduce_Function](https://www.hackerrank.com/challenges/reduce-function/problem)
         * [[Answer]](./Reduce_Function.py)
+    - [Map_and_Lambda_Expression](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)
+        * [[Answer]](./Map_and_Lambda_Expression.py)
 4. [Built-Ins](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-built-ins)
     - [Any_or_All](https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true)
         * [[Answer]](./Any_or_All.py)
