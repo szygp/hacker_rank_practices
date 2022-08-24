@@ -111,3 +111,5 @@ To add practices, please follow the template.
 9. [Regex_and_Parsing](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-regex)
     - [Re.split()](https://www.hackerrank.com/challenges/re-split/problem?isFullScreen=true)
         * [[Answer]](./Re.split().py)
+    - [Validating_the_phone_number](https://www.hackerrank.com/challenges/validating-the-phone-number/problem?isFullScreen=true)
+        * [[Answer]](./Validating_the_phone_number.py)
