@@ -115,5 +115,5 @@ To add practices, please follow the template.
         * [[Answer]](./Validating_the_phone_number.py)
     - [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem)
         * [[Answer]](./Re.start()Re.end().py)
-    - [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-start-re-end/problem)
+    - [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)
             * [[Answer]](./Re.findall()Re.finditer().py)
