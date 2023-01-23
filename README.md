@@ -117,3 +117,7 @@ To add practices, please follow the template.
         * [[Answer]](./Re.start()Re.end().py)
     - [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)
         * [[Answer]](./Re.findall()Re.finditer().py)
+        
+10. [Classes](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-classes)
+    - [Dealing_with_Complex_Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true)
+        * [[Answer]](./Dealing_with_Complex_Numbers.py)
