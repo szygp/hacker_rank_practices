@@ -121,3 +121,5 @@ To add practices, please follow the template.
 10. [Classes](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-classes)
     - [Dealing_with_Complex_Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true)
         * [[Answer]](./Dealing_with_Complex_Numbers.py)
+    - [Find_the_Torsional_Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem?isFullScreen=true)
+        * [[Answer]](./Find_the_Torsional_Angle.py)
