@@ -123,3 +123,7 @@ To add practices, please follow the template.
         * [[Answer]](./Dealing_with_Complex_Numbers.py)
     - [Find_the_Torsional_Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem?isFullScreen=true)
         * [[Answer]](./Find_the_Torsional_Angle.py)
+
+11. [Debugging](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-debugging)
+    - [Dealing_with_Complex_Numbers](https://www.hackerrank.com/challenges/words-score/problem)
+        * [[Answer]](./Words_Score.py)
