@@ -128,4 +128,4 @@ To add practices, please follow the template.
     - [Dealing_with_Complex_Numbers](https://www.hackerrank.com/challenges/words-score/problem)
         * [[Answer]](./Words_Score.py)
     - [Default_Arguments](https://www.hackerrank.com/challenges/default-arguments/problem?isFullScreen=true)
-        * [[Answer]](./Default_Arguments.py)
+        * [[Answer]](./Default_Argument.py)
