@@ -66,6 +66,8 @@ To add practices, please follow the template.
         * [[Answer]](./ginortS.py)
     - [Evaluation](https://www.hackerrank.com/challenges/python-eval/problem?isFullScreen=true)
         * [[Answer]](./Evaluation.py)
+    - [Zipped](https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true)
+        * [[Answer]](./Evaluation.py)
 5. [Math](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-math)
     - [Triangle_Quest2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)
         * [[Answer]](./Triangle_Quest2.py)
