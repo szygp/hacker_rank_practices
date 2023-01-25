@@ -127,3 +127,5 @@ To add practices, please follow the template.
 11. [Debugging](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-debugging)
     - [Dealing_with_Complex_Numbers](https://www.hackerrank.com/challenges/words-score/problem)
         * [[Answer]](./Words_Score.py)
+    - [Default_Arguments](https://www.hackerrank.com/challenges/default-arguments/problem?isFullScreen=true)
+        * [[Answer]](./Default_Arguments.py)
