@@ -131,3 +131,7 @@ To add practices, please follow the template.
         * [[Answer]](./Words_Score.py)
     - [Default_Arguments](https://www.hackerrank.com/challenges/default-arguments/problem?isFullScreen=true)
         * [[Answer]](./Default_Argument.py)
+        * 
+12. [Closures_and_Decorators](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=closures-and-decorators)
+    - [Standardize_Mobile_Number_Using_Decorator](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem)
+        * [[Answer]](./Standardize_Mobile_Number_Using_Decorator.py)
