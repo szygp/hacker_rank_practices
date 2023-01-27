@@ -135,3 +135,5 @@ To add practices, please follow the template.
 12. [Closures_and_Decorators](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=closures-and-decorators)
     - [Standardize_Mobile_Number_Using_Decorator](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem)
         * [[Answer]](./Standardize_Mobile_Number_Using_Decorator.py)
+    - [Decorators2_Name_Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem?isFullScreen=true)
+        * [[Answer]](./Decorators_Name_Directory.py)
