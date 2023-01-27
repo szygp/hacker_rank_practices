@@ -136,4 +136,4 @@ To add practices, please follow the template.
     - [Standardize_Mobile_Number_Using_Decorator](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem)
         * [[Answer]](./Standardize_Mobile_Number_Using_Decorator.py)
     - [Decorators2_Name_Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem?isFullScreen=true)
-        * [[Answer]](./Decorators2_Name_Directory.py)
+        * [[Answer]](./Decorator2_Name_Directory.py)
