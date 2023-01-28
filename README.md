@@ -107,6 +107,8 @@ To add practices, please follow the template.
         * [[Answer]](./Zeros_and_Ones.py)
     - [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem?isFullScreen=true)
         * [[Answer]](./Polynomials.py)
+    - [Linear_Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem?isFullScreen=true))
+        * [[Answer]](./Linear_Algebra.py)
 
 8. [Itertools](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-itertools)
     - [Iterables_and_Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
