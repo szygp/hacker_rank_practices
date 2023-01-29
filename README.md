@@ -113,6 +113,8 @@ To add practices, please follow the template.
         * [[Answer]](./Dot_and_Cross.py)
     - [Min_and_Max](https://www.hackerrank.com/challenges/np-min-and-max/problem?isFullScreen=true)
         * [[Answer]](./Min_and_Max.py)
+    - [Mean_Var_Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)
+        * [[Answer]](./Mean_Var_Std.py)
 
 8. [Itertools](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-itertools)
     - [Iterables_and_Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
