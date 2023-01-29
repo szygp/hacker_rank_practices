@@ -115,6 +115,8 @@ To add practices, please follow the template.
         * [[Answer]](./Min_and_Max.py)
     - [Mean_Var_Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)
         * [[Answer]](./Mean_Var_Std.py)
+    - [Sum_and_Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem?isFullScreen=true)
+        * [[Answer]](./Sum_and_Prod.py)
 
 8. [Itertools](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-itertools)
     - [Iterables_and_Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
