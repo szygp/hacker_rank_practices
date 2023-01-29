@@ -68,6 +68,9 @@ To add practices, please follow the template.
         * [[Answer]](./Evaluation.py)
     - [Zipped](https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true)
         * [[Answer]](./Zipped.py)
+    - [Athlete_Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem?isFullScreen=true)
+        * [[Answer]](./Athlete_Sort.py)
+    
 5. [Math](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-math)
     - [Triangle_Quest2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)
         * [[Answer]](./Triangle_Quest2.py)
