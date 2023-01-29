@@ -111,6 +111,8 @@ To add practices, please follow the template.
         * [[Answer]](./Linear_Algebra.py)
     - [Dot_and_Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem?isFullScreen=true)
         * [[Answer]](./Dot_and_Cross.py)
+    - [Min_and_Max](https://www.hackerrank.com/challenges/np-min-and-max/problem?isFullScreen=true)
+        * [[Answer]](./Min_and_Max.py)
 
 8. [Itertools](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-itertools)
     - [Iterables_and_Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
