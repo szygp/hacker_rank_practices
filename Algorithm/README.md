@@ -43,6 +43,8 @@ To add practices, please follow the template.
         
         
 ## [Python](https://www.hackerrank.com/domains/python)
-1. [Basic data type](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)
+1. [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup)
     - [Solve_me_first](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)
         * [[Answer]](./Solve_me_first.py) 
+    - [Simple_array_sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)
+        * [[Answer]](./Simple_array_sum.py)
