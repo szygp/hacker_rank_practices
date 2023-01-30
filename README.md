@@ -124,6 +124,8 @@ To add practices, please follow the template.
 8. [Itertools](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-itertools)
     - [Iterables_and_Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
         * [[Answer]](./Iterables_and_Iterators.py)
+    - [Maximize_It](https://www.hackerrank.com/challenges/maximize-it/problem?isFullScreen=true)
+        * [[Answer]](./Maximize_It.py)
 
 9. [Regex_and_Parsing](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-regex)
     - [Re.split()](https://www.hackerrank.com/challenges/re-split/problem?isFullScreen=true)
