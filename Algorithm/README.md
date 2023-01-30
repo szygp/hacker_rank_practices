@@ -48,3 +48,6 @@ To add practices, please follow the template.
         * [[Answer]](./Solve_me_first.py) 
     - [Simple_array_sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)
         * [[Answer]](./Simple_array_sum.py)
+    - [A_Very_Big_Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)
+        * [[Answer]](./A_Very_Big_Sum.py)
+      
