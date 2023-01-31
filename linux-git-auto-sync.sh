@@ -1,8 +1,8 @@
-#/bin/bash
+#!/bin/zsh
 
-SHELL_PATH=$(dirname $(readlink -f "$0"))
+SHELL_PATH=$(dirname "$(readlink -f "$0")")
 
-cd $SHELL_PATH
+cd "${SHELL_PATH}" || exit
 
 git add -A
 git commit -m "default messages"
