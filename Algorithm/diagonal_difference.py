@@ -18,8 +18,8 @@ def diagonalDifference(arr):
     for i in range(len(arr)):
         primary += arr[i][i]
         secondary += arr[i][len(arr) - i - 1]
-        diagonalDifference = abs(primary - secondary)
-    return diagonalDifference
+        diagonal_difference = abs(primary - secondary)
+    return diagonal_difference
 
 
 if __name__ == '__main__':
